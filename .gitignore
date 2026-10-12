@@ -1,0 +1,27 @@
+# Unity tự tạo lại
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Bản game xuất ra
+/[Bb]uild/
+/[Bb]uilds/
+
+# File IDE tự sinh
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.suo
+*.userprefs
+
+# File macOS
+.DS_Store
